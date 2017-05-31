@@ -1,0 +1,19 @@
+.dead_center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.main_container{
+    padding:15px;
+    width:565px;
+    height:550px;
+    border:1px solid #CCC;
+    display: block;
+}
+.main_container .header .title{
+    font-size:2em;
+    color:#005cb9;
+}

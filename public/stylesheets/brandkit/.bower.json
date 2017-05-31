@@ -1,0 +1,26 @@
+{
+  "name": "brandkit",
+  "description": "LESS variables/mixins and JSON variables for GE brand standard colors, typography, etc., including font files.",
+  "author": "General Electric",
+  "version": "2.7.1",
+  "main": [
+    "js/brandkit.js",
+    "less/brandkit.less"
+  ],
+  "ignore": [
+    "components",
+    "css",
+    "node_modules",
+    ".*"
+  ],
+  "dependencies": {},
+  "_release": "2.7.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.7.1",
+    "commit": "68fe8a6c6a80f19b438e44236330533d2f9c9d26"
+  },
+  "_source": "git@github.sw.ge.com:IIDx/brandkit",
+  "_target": "~2.7.0",
+  "_originalSource": "git@github.sw.ge.com:IIDx/brandkit"
+}
